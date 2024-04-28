@@ -3,8 +3,8 @@ This is an QR Code generator made in python.
 # 
 # Installation :
 # 
-1: Run Setup.bat
-2: pip install qrcode[pil]
+## 1: Run Setup.bat
+## 2: pip install qrcode[pil]
 # 
 # How 2 use ?
 # 
