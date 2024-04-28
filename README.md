@@ -1,5 +1,5 @@
 # QR-generator :
-This is an QR Code generator made in python.
+# This is an QR Code generator made in python.
 # 
 # Installation :
 # 
